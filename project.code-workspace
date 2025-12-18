@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "C:/Users/User/OneDrive/Робочий стіл/project"
+		},
+		{
+			"path": "../../dev"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "папка",
+		"vscode-pets.theme": "forest"
+	}
+}
